@@ -159,7 +159,7 @@ h6 {
   list-style: none;
 }
 
-.nav-menu>ul>li {
+.nav-menu > ul > li {
   position: relative;
   white-space: nowrap;
 }
@@ -193,7 +193,6 @@ h6 {
 }
 
 @media (min-width: 992px) {
-
   .nav-menu a,
   .nav-menu a:focus {
     width: 56px;
@@ -209,7 +208,7 @@ h6 {
 .nav-menu a:hover,
 .nav-menu .active,
 .nav-menu .active:focus,
-.nav-menu li:hover>a {
+.nav-menu li:hover > a {
   color: #fff;
   background: #0563bb;
 }
@@ -217,18 +216,18 @@ h6 {
 .nav-menu a:hover span,
 .nav-menu .active span,
 .nav-menu .active:focus span,
-.nav-menu li:hover>a span {
+.nav-menu li:hover > a span {
   color: #fff;
 }
 
 .nav-menu a:hover,
-.nav-menu li:hover>a {
+.nav-menu li:hover > a {
   width: 100%;
   color: #fff;
 }
 
 .nav-menu a:hover span,
-.nav-menu li:hover>a span {
+.nav-menu li:hover > a span {
   display: block;
 }
 
@@ -274,8 +273,8 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top left no-repeat;
-  background-size:cover;
+  background: url("../img/hero-bg.jpg") top right no-repeat;
+  background-size: cover;
   position: relative;
 }
 
@@ -406,7 +405,7 @@ section {
   font-size: 26px;
   color: #728394;
 }
-.photoid{
+.photoid {
   width: 95%;
   height: 90%;
 }
@@ -436,8 +435,6 @@ section {
 .about .content p:last-child {
   margin-bottom: 0;
 }
-
-
 
 /*--------------------------------------------------------------
 # Skills
@@ -485,7 +482,7 @@ section {
   margin-bottom: 20px;
   color: #45505b;
 }
-.resume-headtitle{
+.resume-headtitle {
   text-align: center;
   font-size: 26px;
   font-weight: 700;
@@ -543,9 +540,6 @@ section {
   background: #fff;
   border: 2px solid #0563bb;
 }
-
-
-
 
 /*--------------------------------------------------------------
 # Contact
@@ -614,7 +608,7 @@ section {
   font-weight: 600;
 }
 
-.contact .php-email-form .error-message br+br {
+.contact .php-email-form .error-message br + br {
   margin-top: 25px;
 }
 
@@ -653,8 +647,8 @@ section {
   font-size: 14px;
 }
 
-.contact .php-email-form input[type=text],
-.contact .php-email-form input[type=email] {
+.contact .php-email-form input[type="text"],
+.contact .php-email-form input[type="email"] {
   height: 44px;
 }
 
@@ -662,7 +656,7 @@ section {
   padding: 10px 12px;
 }
 
-.contact .php-email-form button[type=submit] {
+.contact .php-email-form button[type="submit"] {
   background: #0563bb;
   border: 0;
   padding: 10px 35px;
@@ -671,7 +665,7 @@ section {
   border-radius: 50px;
 }
 
-.contact .php-email-form button[type=submit]:hover {
+.contact .php-email-form button[type="submit"]:hover {
   background: #0678e3;
 }
 
