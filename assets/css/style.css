@@ -300,7 +300,6 @@ h6 {
   font-weight: 700;
   line-height: 56px;
   color: #45505b;
-
 }
 
 #hero p {
@@ -476,6 +475,11 @@ section {
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
+#Role-heading {
+  font-weight: 700;
+  font-size: 26px;
+  color: #728394;
+}
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
