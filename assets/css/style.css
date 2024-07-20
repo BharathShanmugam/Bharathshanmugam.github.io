@@ -480,6 +480,25 @@ section {
   font-size: 26px;
   color: #728394;
 }
+
+#WorkExperience {
+  text-align: center;
+  font-weight: 700;
+  font-size: 26px;
+  color: #02264a;
+}
+.workexperience-1 {
+  font-weight: 500;
+  font-size: 26px;
+  color: #009295;
+}
+
+#date-year {
+  text-align: right;
+  font-weight: 700;
+  color: #010f1e;
+}
+
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
@@ -743,3 +762,5 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+/* ------------------------------------------------------------------------------------------ */
