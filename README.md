@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bharath Shanmugam</h1>
 <h3 align="center">Working at TekStructers<h3>
-<h3 align="center">Aspiring software engineer with hands-on experience in backend development and a solid foundation in technologies such as SQLModel, SQLAlchemy, FastAPI, PostgreSQL, Docker, and API integrations. Seeking to leverage my expertise in designing scalable systems, optimizing databases, and enhancing application functionalities in a challenging role at a forward-thinking organization. Committed to continuous learning, innovative problem solving, and contributing to the success of dynamic development teams.</h3>
+<h3 align="center">Results-driven Backend Engineer with hands-on experience in developing scalable backend solutions using Python and implementing robust database architectures. Proficient in SQLModel, SQLAlchemy, and FastAPI, with a strong foundation in PostgreSQL, Docker, and API integrations. Adept at leveraging AWS Cloud services to enhance system performance and utilizing Git and GitHub for version control. Seeking a challenging role at an innovative organization where I can apply my expertise in designing efficient systems, optimizing database performance, and contributing to dynamic development teams. Committed to continuous learning and innovative problem-solving to drive success in evolving technical environments.</h3>
 
 - 🔭 I’m currently working on **Customer Relationship Management system with WhatsApp API**
 
